@@ -16,10 +16,10 @@ export default function Portfolio() {
       specs: '300m² - 10 bàn',
       description: 'Câu lạc bộ Billiards cao cấp với thiết kế Art Deco hiện đại, 10 bàn billiards chuyên nghiệp, khu VIP riêng biệt, hệ thống ánh sáng LED tối ưu.',
       images: [
+        '/manus-storage/z8073222150088_4cdd1135ed0e2675a7115dce4505d5cb_eaad5e04.jpg',
         '/manus-storage/1_18e85118.jpg',
         '/manus-storage/z8073222126210_5db28f9386cc5bbbf108067a99727126_9cdd5a94.jpg',
         '/manus-storage/z8073222130279_38f67425ac64dec4f4eaa19d5e460de8_0e7d23d8.jpg',
-        '/manus-storage/z8073222150088_4cdd1135ed0e2675a7115dce4505d5cb_eaad5e04.jpg',
         '/manus-storage/z8073222156629_f75f497b45145712769997b4c878f396_b5da6b8a.jpg',
         '/manus-storage/z8073222159698_bd7f55ba7dcab919a708d4b3699c598b_da82b34d.jpg',
         '/manus-storage/z8073222162118_37b277127de3229a6838995ee3934926_8d77b966.jpg',
@@ -43,6 +43,7 @@ export default function Portfolio() {
       specs: '400m² - 12 bàn',
       description: 'Câu lạc bộ Billiards hạng sang với diện tích 400m², 12 bàn billiards cao cấp, thiết kế nội thất luxury, khu bar và lounge riêng, hệ thống âm thanh chuyên nghiệp.',
       images: [
+        '/manus-storage/1_18e85118.jpg',
         '/manus-storage/z8073224157248_0753cd557a50475d15ecc0578f0518cf_2cf2a863.jpg',
         '/manus-storage/z8073224160086_a1502816e915353477a29fce23446f80_cc7640c1.jpg',
         '/manus-storage/z8073224172379_b4b9cb2ce0ab1eabe158796add35faf4_970809c0.jpg',
@@ -81,6 +82,7 @@ export default function Portfolio() {
       description: 'Câu lạc bộ Billiards hiện đại tại Bắc Ninh với 10 bàn billiards chuyên nghiệp, thiết kế nội thất sang trọng, khu lounge thoải mái, hệ thống chiếu sáng LED chuyên dụng.',
       images: [
         '/manus-storage/z8073224650569_75626b3b8b0f6c414979efb1fdcb0d14_4b6276c9.jpg',
+        '/manus-storage/1_18e85118.jpg',
         '/manus-storage/z8073224650850_f1fe29d3be94cc6e7e7f4afdc0a8c2e3_6b40cc8a.jpg',
         '/manus-storage/z8073224657079_1db7f58ab2301987b45c47f01392eb5f_cf2a634e.jpg',
         '/manus-storage/z8073224665744_8f8373531b6e64ba7dff4b325c719d68_ee88fa80.jpg',
@@ -110,6 +112,7 @@ export default function Portfolio() {
       specs: '500m² - 12 bàn',
       description: 'Câu lạc bộ Billiards cao cấp nhất với diện tích 500m², 12 bàn billiards hạng sang, thiết kế nội thất luxury đẳng cấp, khu VIP riêng biệt, bar lounge sang trọng, hệ thống âm thanh và ánh sáng chuyên nghiệp.',
       images: [
+        '/manus-storage/1_18e85118.jpg',
         '/manus-storage/z8073225376218_e91ed467670e63c6bd0c9cc4756a7e95_8a777c17.webp',
         '/manus-storage/z8073225385506_c09b9a84849f69abec55407bd9bff618_7880c060.webp',
         '/manus-storage/z8073225395066_8a495e8a740e11a18e668f1c6f214493_c3e12c47.webp',
@@ -150,6 +153,7 @@ export default function Portfolio() {
       specs: '2200m² - 32 bàn',
       description: 'Dự án Billiards lớn nhất và sang trọng nhất với diện tích 2200m² trên 2 tầng, hơn 30 bàn billiards cao cấp, thiết kế nội thất luxury đẳng cấp quốc tế, khu VIP riêng biệt, bar lounge hạng sang, nhà hàng, phòng karaoke, hệ thống âm thanh và ánh sáng chuyên nghiệp, đỗ xe rộng rãi.',
       images: [
+       '/manus-storage/z8073227701848_55830a1b2e05ad6fec065739e5461161_2befcb75.jpg',
         '/manus-storage/z8073227013035_ae6f3b0cf67ea1e4c6b98ccaa30d67f9_4194c7a2.jpg',
         '/manus-storage/z8073227006158_2716acea0f4ca3485f65a79033a47bb4_abe3d844.jpg',
         '/manus-storage/z8073227027157_7ba1b552214204159dd9a66e3579f667_4d207b53.jpg',
@@ -159,7 +163,6 @@ export default function Portfolio() {
         '/manus-storage/z8073227052250_62ad36b049d5dcdc33406bfa99ff0b84_f4170265.jpg',
         '/manus-storage/z8073227044188_7eae2a1d2a439d73bee182e2d42cfba4_3badd5db.jpg',
         '/manus-storage/z8073227689485_dc496bac08ca3b0caf275d2ad8c42aff_67ada173.jpg',
-        '/manus-storage/z8073227701848_55830a1b2e05ad6fec065739e5461161_2befcb75.jpg',
         '/manus-storage/z8073227706616_9c6b32c7b8311aea153171b56bdfe5d7_1f9abf1e.jpg',
         '/manus-storage/z8073227706815_d3d53a9eee4094472749017df67a4162_6225e800.jpg',
         '/manus-storage/z8073227715107_dafc87c9c73e73243522191e4b5efc5c_4cbe562e.jpg',
@@ -181,8 +184,8 @@ export default function Portfolio() {
       specs: '700m² - 23 bàn',
       description: 'Câu lạc bộ Billiards hiện đại tại Sài Gòn với 700m², 23 bàn billiards cao cấp, thiết kế nội thất luxury với neon signage, khu lounge thoải mái, bar sang trọng, phòng VIP riêng biệt, hệ thống chiếu sáng LED chuyên dụng, không gian thoáng đãng và hiện đại.',
       images: [
-        '/manus-storage/z8073228196177_b628c5444366287c3ec98c5a1d4a6b15_d0ea3766.jpg',
         '/manus-storage/z8073228189182_f7cd7f37a83dc79b182ff6db136d6fe3_9af2c4b9.jpg',
+        '/manus-storage/z8073228196177_b628c5444366287c3ec98c5a1d4a6b15_d0ea3766.jpg',
         '/manus-storage/z8073228206547_a6b807997e359b388d65fd2fe7a0c659_a13a93cd.jpg',
         '/manus-storage/z8073228206260_02af2b94dce6f5d6caac1f195a902a39_036c0888.jpg',
         '/manus-storage/z8073228219238_c8b8a0a7f71ca95ac47022713f8e4923_e8d15b1a.jpg',
@@ -202,6 +205,7 @@ export default function Portfolio() {
       specs: '300m² - 10 bàn',
       description: 'Câu lạc bộ Billiards cao cấp với thiết kế neon signage hiện đại, nội thất luxury kết hợp đen, vàng, xám, 10 bàn billiards hạng sang, khu VIP riêng biệt, bar lounge sang trọng, phòng vệ sinh cao cấp, hệ thống chiếu sáng chuyên nghiệp, không gian hiện đại và thoáng đãng.',
       images: [
+       '/manus-storage/z8073262586764_e3eeca6d7b7e847a7eef21c1db873cba_8a07d18f.jpg',
         '/manus-storage/z8073262577798_480ff2826376d73e9b2574f02febf9c4_fe497f31.jpg',
         '/manus-storage/z8073262565506_c0cd1b92e94721e5c506a3f425747c58_e80bf336.jpg',
         '/manus-storage/z8073262582628_f88f180f23df2a8ef131800cf46f73be_17e856cb.jpg',
@@ -210,7 +214,6 @@ export default function Portfolio() {
         '/manus-storage/z8073262617313_46bcb9f0a020c2dd30ef9f50fd4669cb_a9c33e48.jpg',
         '/manus-storage/z8073262609949_469d1581b749cf0ff1fe0538536bee18_0583b7d0.jpg',
         '/manus-storage/z8073262618548_f232932e526f11bb18d6a2b9712443a4_bf9595a7.jpg',
-        '/manus-storage/z8073262586764_e3eeca6d7b7e847a7eef21c1db873cba_8a07d18f.jpg',
         '/manus-storage/z8073262626008_14471fd6da511ebb294479b2157f7430_546f981d.jpg',
       ]
     },
@@ -223,6 +226,7 @@ export default function Portfolio() {
       specs: '600m² - 20 bàn',
       description: 'Câu lạc bộ Billiards cao cấp trên 2 tầng với thiết kế neon signage hiện đại, nội thất luxury đẳng cấp, 10 bàn billiards hạng sang, khu VIP riêng biệt, bar lounge sang trọng, phòng karaoke VIP, hệ thống chiếu sáng LED chuyên nghiệp, không gian thoáng đãng và hiện đại.',
       images: [
+        '/manus-storage/1_18e85118.jpg',
         '/manus-storage/z8073263006549_84ff69e22feb9d284b9bbba0f94a7d88_44c590ba.jpg',
         '/manus-storage/z8073263009178_bbe2a847ec8314f4fb6a2cd2ac9edd22_f0c6d17c.jpg',
         '/manus-storage/z8073263018793_28cdc81a4a0f35c6cbbf768037c82df4_c74c9478.jpg',
@@ -250,13 +254,13 @@ export default function Portfolio() {
       specs: '300m² - 10 bàn',
       description: 'Câu lạc bộ Billiards cao cấp với thiết kế hiện đại, neon signage đỏ cam nổi bật, nội thất luxury kết hợp xám, đen, trắng, 10 bàn billiards hạng sang, bar lounge sang trọng, phòng VIP riêng biệt, hệ thống chiếu sáng LED chuyên nghiệp, không gian thoáng đãng.',
       images: [
+        '/manus-storage/z8073265046210_247516151abf5e2baa85e41d170737fc_e79647c1.jpg',
         '/manus-storage/z8073265019351_11cce13d9a29353b5a871d2c406ca1a8_62e88156.jpg',
         '/manus-storage/z8073265024773_9ac320bfca81c0c24f6b0e9562a01031_af4220df.jpg',
         '/manus-storage/z8073265030543_e0bf5d8ead4d9eb0489dd3d44356cfbf_f02723bd.jpg',
         '/manus-storage/z8073265037760_756112425a63f580dd3dfa8f7a70c4c4_0aafce34.jpg',
         '/manus-storage/z8073265057586_c49812ee1661308c10a7700e26844851_07ac7812.jpg',
         '/manus-storage/z8073265048403_632b2df0c6cd7a0996ecc53b38e080d0_5bf24207.jpg',
-        '/manus-storage/z8073265046210_247516151abf5e2baa85e41d170737fc_e79647c1.jpg',
       ]
     },
     {
@@ -268,6 +272,7 @@ export default function Portfolio() {
       specs: '350m² - 12 bàn',
       description: 'Câu lạc bộ Billiards cao cấp với thiết kế hiện đại, neon signage đỏ nổi bật, nội thất luxury kết hợp xám, đen, trắng, 12 bàn billiards hạng sang, bar lounge sang trọng, phòng VIP riêng biệt, hệ thống chiếu sáng LED chuyên nghiệp, không gian thoáng đãng và hiện đại.',
       images: [
+       '/manus-storage/z8073265542494_0d19ead024992428c066d3ba2e53d1fc_489b79a5.jpg',
         '/manus-storage/z8073265492728_fe8a029ebc2d8f211fbbf26d0025c52f_778d9b43.jpg',
         '/manus-storage/z8073265504793_522042dc5092f2490d3ed65625fb17d2_a1645368.jpg',
         '/manus-storage/z8073265513738_d22579e31eae1348c614447c4bacf1e9_27a793ff.jpg',
@@ -275,7 +280,6 @@ export default function Portfolio() {
         '/manus-storage/z8073265522094_a71438f82fb22fe0eff6b50b017abed2_77d9ee9c.jpg',
         '/manus-storage/z8073265527866_b44f7a4fa615e0ed25edff4884f08a35_54350825.jpg',
         '/manus-storage/z8073265544166_4b2489a1e60e3f6e54c042c0e4ade712_352027f6.jpg',
-        '/manus-storage/z8073265542494_0d19ead024992428c066d3ba2e53d1fc_489b79a5.jpg',
       ]
     },
     {
@@ -287,6 +291,7 @@ export default function Portfolio() {
       specs: '260m² - 9 bàn',
       description: 'Câu lạc bộ Billiards cao cấp với thiết kế hiện đại, neon signage nổi bật, nội thất luxury kết hợp xám, đen, trắng, 9 bàn billiards hạng sang, bar lounge sang trọng, phòng VIP riêng biệt, hệ thống chiếu sáng LED chuyên nghiệp, không gian thoáng đãng.',
       images: [
+        '/manus-storage/1_18e85118.jpg',
         '/manus-storage/z8073265901595_7b1a42cce34473088e03dd0ec86259f2_84e84079.jpg',
         '/manus-storage/z8073265902865_af35eeaf73f73dcde40eb475c51bd963_13015060.jpg',
         '/manus-storage/z8073265908727_2ca883739b77f28699e2d63f548decc2_4b41083d.jpg',
@@ -309,6 +314,7 @@ export default function Portfolio() {
       specs: '160m² - 6 bàn',
       description: 'Câu lạc bộ Billiards cao cấp với thiết kế hiện đại, neon signage nổi bật, nội thất luxury kết hợp xám, đen, trắng, 6 bàn billiards hạng sang, bar lounge sang trọng, phòng VIP riêng biệt, hệ thống chiếu sáng LED chuyên nghiệp, không gian thoáng đãng.',
       images: [
+        '/manus-storage/1_18e85118.jpg',
         '/manus-storage/z8073266324669_debe5e42b4a337e15dbe3c76d003f7d9_ac1d8d57.jpg',
         '/manus-storage/z8073266334325_897c5e99402cc81e1455fb8ba2566bd2_22c0a37a.jpg',
         '/manus-storage/z8073266329493_2606fc0817b539d16a03fed8264120e7_71ea5427.jpg',
@@ -325,6 +331,7 @@ export default function Portfolio() {
       specs: '300m² - 10 bàn',
       description: 'Câu lạc bộ Billiards cao cấp với thiết kế hiện đại, neon signage xanh dương nổi bật, nội thất luxury kết hợp xám, đen, trắng, 10 bàn billiards Queen hạng sang, bar lounge sang trọng, phòng VIP riêng biệt, hệ thống chiếu sáng LED chuyên nghiệp, không gian thoáng đãng.',
       images: [
+        '/manus-storage/1_18e85118.jpg',
         '/manus-storage/z8073266878317_0bea8dd6bfb01639a93fb4821c3bfac3_c0972349.jpg',
         '/manus-storage/z8073266890055_9df15c3c8f16b397883c86142043d3e8_b08e23be.jpg',
         '/manus-storage/z8073266898696_a737d528ab8724d6cd8f8101100d313a_47a8e5ca.jpg',
@@ -341,6 +348,7 @@ export default function Portfolio() {
       specs: '180m² - 7 bàn',
       description: 'Câu lạc bộ Billiards cao cấp với thiết kế hiện đại, neon signage đỏ nổi bật, nội thất luxury kết hợp xám, đen, trắng, 7 bàn billiards Apollo hạng sang, bar lounge sang trọng, phòng VIP riêng biệt, hệ thống chiếu sáng LED chuyên nghiệp, artwork độc đáo, không gian thoáng đãng.',
       images: [
+        '/manus-storage/1_18e85118.jpg',
         '/manus-storage/z8073267318353_cc3efaf37fc79e89e2f7ffe5342ece84_d869647b.jpg',
         '/manus-storage/z8073267323050_1a16ec212465c60e845dfb76b68d271b_559ba13e.jpg',
         '/manus-storage/z8073267332516_bdaa71fbd4bebb49b64ca741969af78d_3786aede.jpg',
@@ -406,9 +414,9 @@ export default function Portfolio() {
       specs: '200m² - 7 bàn',
       description: 'Câu lạc bộ Billiards cao cấp với thiết kế hiện đại, neon signage vàng/cam nổi bật, nội thất luxury kết hợp đen, xám, cam, 7 bàn billiards hạng sang, bar lounge sang trọng, phòng VIP riêng biệt, hệ thống chiếu sáng LED chuyên nghiệp, artwork độc đáo, không gian thoáng đãng và hiện đại.',
       images: [
-        '/manus-storage/z8073268617925_73b54503586feb6df703d241b4bbac40_56c87dd7.jpg',
         '/manus-storage/z8073268620324_e19c2e4ad62b34934983d41eec747fba_3d90ecfa.jpg',
         '/manus-storage/z8073268630817_19bcd081df3f62d110fe32b5805321cc_01ec2854.jpg',
+        '/manus-storage/z8073268617925_73b54503586feb6df703d241b4bbac40_56c87dd7.jpg',
         '/manus-storage/z8073268634567_b1ddde35d6a93bc6db4f79d58a15cdb4_b0a40179.jpg',
         '/manus-storage/z8073268648830_fa9d87222ed31ea404dc462b57b9121c_1bc294c8.jpg',
         '/manus-storage/z8073268650546_87eb0023bde51d5e3768fe34914aa5d1_50461f52.jpg',
@@ -434,8 +442,8 @@ export default function Portfolio() {
       specs: '1000m² - 16 bàn',
       description: 'Dự án Billiards + Cafe cao cấp với diện tích 1000m², kết hợp 16 bàn billiards hạng sang, cafe sang trọng, thiết kế nội thất luxury đẳng cấp, khu VIP riêng biệt, bar lounge hạng sang, phòng meeting, hệ thống âm thanh và ánh sáng chuyên nghiệp, không gian hiện đại và thoáng đãng.',
       images: [
-        '/manus-storage/z8073269094511_15498e75b2f0274b73259f13a4be0cb4_6cf32578.jpg',
         '/manus-storage/z8073269129312_0934a2c630fd4dd5d66cfe4ff2cd79ed_5765ae59.jpg',
+        '/manus-storage/z8073269094511_15498e75b2f0274b73259f13a4be0cb4_6cf32578.jpg',
         '/manus-storage/z8073269113030_96d81c43a67f2949be56489744f4ad5d_d5638680.jpg',
         '/manus-storage/z8073269103135_e4c52da766f5634475e234d74cfce30a_ca141d3d.jpg',
         '/manus-storage/z8073269122966_48a691f058a512acee0161064ae7fb42_ae1917ff.jpg',
@@ -464,8 +472,9 @@ export default function Portfolio() {
       specs: '300m² - 12 bàn',
       description: 'Câu lạc bộ Billiards cao cấp với thiết kế hiện đại, neon signage xanh lá nổi bật, nội thất luxury kết hợp đen, xám, trắng, 12 bàn billiards hạng sang, bar lounge sang trọng, phòng VIP riêng biệt, hệ thống chiếu sáng LED chuyên nghiệp với đèn treo trang trí, artwork độc đáo, không gian thoáng đãng và hiện đại.',
       images: [
-        '/manus-storage/z8073269500423_d92a00e038e1c13af13f2757438cc401_89120f14.jpg',
         '/manus-storage/z8073269510837_7c80387efb997f6c17484418348a5d22_4ba854f8.jpg',
+        '/manus-storage/1_c454a1c5.jpg',
+        '/manus-storage/z8073269500423_d92a00e038e1c13af13f2757438cc401_89120f14.jpg',
         '/manus-storage/z8073269568456_0a4a446f6c7e157f23ec3523f7af5391_e653eb59.jpg',
         '/manus-storage/z8073269574230_87fd07f94f1afd298d6ce394c7921bf4_e191d458.jpg',
         '/manus-storage/z8073269581648_08397d46007502b0ecd52aaac4f6ada8_35ae412e.jpg',
@@ -474,7 +483,6 @@ export default function Portfolio() {
         '/manus-storage/z8073270025541_ecabca9d6ee7948b1929f860ea2720fd_4f788817.jpg',
         '/manus-storage/z8073269524156_59c99bfc9cf043141628f0152244a67c_8f25a6ef.jpg',
         '/manus-storage/z8073269533502_f12ef88b98e4a7fc88679c6b620d839f_0235ccec.jpg',
-        '/manus-storage/1_c454a1c5.jpg',
         '/manus-storage/z8073269545058_9dfa2a7b06b9e7990ce0cff7ff3ebb87_801b9d46.jpg',
         '/manus-storage/z8073269547025_473be888610c8cfe089de69b73ed8229_7218409b.jpg',
         '/manus-storage/z8073269550282_327f10cd63bb0d6bd2b1b7159e9b3957_58d0010a.jpg',
@@ -490,12 +498,12 @@ export default function Portfolio() {
       specs: '450m² - 16 bàn',
       description: 'Câu lạc bộ Billiards cao cấp với thiết kế hiện đại, neon signage đỏ/cam nổi bật, nội thất luxury kết hợp đen, xám, đỏ, 16 bàn billiards hạng sang, bar lounge sang trọng, phòng VIP riêng biệt, hệ thống chiếu sáng LED chuyên nghiệp, artwork độc đáo, không gian thoáng đãng và hiện đại.',
       images: [
+        '/manus-storage/1(1)_e7c391ad.jpg',
         '/manus-storage/1(2)_d638ef3b.jpg',
         '/manus-storage/1(4)_93788f1e.jpg',
         '/manus-storage/1(5)_24a2b2fb.jpg',
         '/manus-storage/1(3)_8966fff4.jpg',
         '/manus-storage/1(7)_a96161af.jpg',
-        '/manus-storage/1(1)_e7c391ad.jpg',
         '/manus-storage/1(10)_ac8a19fc.jpg',
         '/manus-storage/1(6)_2646c7a1.jpg',
         '/manus-storage/1(9)_1ba52260.jpg',
@@ -513,11 +521,12 @@ export default function Portfolio() {
       specs: '1400m² - 30 bàn',
       description: 'Dự án Billiards siêu khủng với diện tích 1400m², kết hợp 30 bàn billiards hạng sang, thiết kế nội thất luxury đẳng cấp, khu VIP riêng biệt, bar lounge hạng sang, phòng meeting, nhà hàng, hệ thống âm thanh và ánh sáng chuyên nghiệp, không gian hiện đại, thoáng đãng và đẳng cấp.',
       images: [
+        '/manus-storage/z8073270439154_c4837c7a73dbae540cbd7ebb699c8608_5159bdc0.jpg',
+        '/manus-storage/1_18e85118.jpg',
         '/manus-storage/z8073270406146_3617420d6f8afbd3e733f48f9bc4c101_81b6a3d0.jpg',
         '/manus-storage/z8073270415679_cc29d8b8fbd8fe75d6a2cfb72e238ab7_0a7488f3.jpg',
         '/manus-storage/z8073270422446_554f91a7460c794f8b2de22f9055e6e7_c674dee8.jpg',
         '/manus-storage/z8073270429748_b94ba19a865f4e9abcb90986e664e69e_b42396df.jpg',
-        '/manus-storage/z8073270439154_c4837c7a73dbae540cbd7ebb699c8608_5159bdc0.jpg',
         '/manus-storage/z8073270445090_b0e003df6b78c3d00946651c0552786b_30fd0355.jpg',
         '/manus-storage/z8073270447278_6349078e33b825f3712ae2bd0d90ca6e_f064dd74.jpg',
         '/manus-storage/z8073270458543_1a8414eb82838b5622de4b91e778eb0a_5fdbad14.jpg',
