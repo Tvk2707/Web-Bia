@@ -514,7 +514,6 @@ export default function Portfolio() {
       description: 'Dự án Billiards siêu khủng với diện tích 1400m², kết hợp 30 bàn billiards hạng sang, thiết kế nội thất luxury đẳng cấp, khu VIP riêng biệt, bar lounge hạng sang, phòng meeting, nhà hàng, hệ thống âm thanh và ánh sáng chuyên nghiệp, không gian hiện đại, thoáng đãng và đẳng cấp.',
       images: [
         '/manus-storage/z8073270439154_c4837c7a73dbae540cbd7ebb699c8608_5159bdc0.jpg',
-        '/manus-storage/1_18e85118.jpg',
         '/manus-storage/z8073270406146_3617420d6f8afbd3e733f48f9bc4c101_81b6a3d0.jpg',
         '/manus-storage/z8073270415679_cc29d8b8fbd8fe75d6a2cfb72e238ab7_0a7488f3.jpg',
         '/manus-storage/z8073270422446_554f91a7460c794f8b2de22f9055e6e7_c674dee8.jpg',
