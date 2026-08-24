@@ -26,7 +26,7 @@ export default function Hero() {
           <div className="relative">
             <div className="absolute inset-0 bg-gradient-to-br from-yellow-600/5 to-transparent rounded-2xl"></div>
             <img 
-              src="/manus-storage/hz-hero-billiards_221e50ab.png" 
+              src="/web-bia-images/02-hero/01_hz-hero-billiards_221e50ab.png" 
               alt="Luxury Billiards Club" 
               className="w-full h-auto rounded-2xl shadow-2xl border-2 border-yellow-600/30 hover:shadow-[0_20px_40px_rgba(212,175,55,0.3)] transition-all duration-300"
             />

@@ -9,7 +9,7 @@ export default function Header() {
       <div className="container max-w-7xl mx-auto px-4 py-4 flex items-center justify-between">
         <div className="flex items-center gap-3">
           <img 
-            src="/manus-storage/469366739_122151155132362878_3746871771906175779_n_e9ba5dfe.jpg"
+            src="/web-bia-images/01-header-logo/01_469366739_122151155132362878_3746871771906175779_n_e9ba5dfe.jpg"
             alt="HZdesign Logo" 
             className="w-16 h-16"
           />

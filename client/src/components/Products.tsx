@@ -13,10 +13,10 @@ export default function Products() {
       price: '69 Triệu',
       description: 'Bàn bi-a cao cấp với thiết kế hiện đại, mặt chơi chuyên nghiệp',
       images: [
-        '/manus-storage/z8073127555502_b6cf0618f3b074956499f431f838b329_a49af547.jpg',
-        '/manus-storage/z8073127559716_31ded73e99b732966fe7f641bc73b3ac_d4ff2bc2.jpg',
-        '/manus-storage/z8073127566749_7b7808a0db53b48eb3a6f7fcb7e5deeb_6c436223.webp',
-        '/manus-storage/z8073127578520_db38c924dfa903bb20e7d05dd870e75c_04797560.webp',
+        '/web-bia-images/05-products/king-billiards-king-nexus/01_z8073127555502_b6cf0618f3b074956499f431f838b329_a49af547.jpg',
+        '/web-bia-images/05-products/king-billiards-king-nexus/02_z8073127559716_31ded73e99b732966fe7f641bc73b3ac_d4ff2bc2.jpg',
+        '/web-bia-images/05-products/king-billiards-king-nexus/03_z8073127566749_7b7808a0db53b48eb3a6f7fcb7e5deeb_6c436223.webp',
+        '/web-bia-images/05-products/king-billiards-king-nexus/04_z8073127578520_db38c924dfa903bb20e7d05dd870e75c_04797560.webp',
       ]
     },
     {
@@ -26,9 +26,9 @@ export default function Products() {
       price: '56 Triệu',
       description: 'Bàn bi-a cao cấp với thiết kế sang trọng, mặt chơi xanh lá',
       images: [
-        '/manus-storage/z8073146436199_e2178df2580fd87153e64fe02ccac1d3_479c79a7.jpg',
-        '/manus-storage/z8073146443616_88ebb4bd68095b1559f79ea431e5060f_9558d900.jpg',
-        '/manus-storage/z8073146453807_8bec4256de8b1ed2cb520ef5f64d08eb_49f35570.jpg',
+        '/web-bia-images/05-products/king-billiards-king-luxury/01_z8073146436199_e2178df2580fd87153e64fe02ccac1d3_479c79a7.jpg',
+        '/web-bia-images/05-products/king-billiards-king-luxury/02_z8073146443616_88ebb4bd68095b1559f79ea431e5060f_9558d900.jpg',
+        '/web-bia-images/05-products/king-billiards-king-luxury/03_z8073146453807_8bec4256de8b1ed2cb520ef5f64d08eb_49f35570.jpg',
       ]
     },
     {
@@ -38,10 +38,10 @@ export default function Products() {
       price: '52 Triệu',
       description: 'Bàn bi-a cao cấp với thiết kế hiện đại, mặt chơi xám bạc',
       images: [
-        '/manus-storage/z8073138375759_96ce85d0c048ee2c2cbe6666ff5ab9fe_747de17c.jpg',
-        '/manus-storage/z8073138385632_c549febb67fa9d5e2413b3db90859516_c6bd69af.jpg',
-        '/manus-storage/z8073138395142_f4efe66b626a5dc7543bd15d54e63efc_aab1e2e7.jpg',
-        '/manus-storage/z8073138372289_b52a0653b9e530982d912159561b3331_c56488b2.jpg',
+        '/web-bia-images/05-products/king-billiards-king-winner/01_z8073138375759_96ce85d0c048ee2c2cbe6666ff5ab9fe_747de17c.jpg',
+        '/web-bia-images/05-products/king-billiards-king-winner/02_z8073138385632_c549febb67fa9d5e2413b3db90859516_c6bd69af.jpg',
+        '/web-bia-images/05-products/king-billiards-king-winner/03_z8073138395142_f4efe66b626a5dc7543bd15d54e63efc_aab1e2e7.jpg',
+        '/web-bia-images/05-products/king-billiards-king-winner/04_z8073138372289_b52a0653b9e530982d912159561b3331_c56488b2.jpg',
       ]
     },
     {
@@ -51,10 +51,10 @@ export default function Products() {
       price: '42 Triệu',
       description: 'Bàn bi-a cao cấp với thiết kế sang trọng, mặt chơi xám nhạt',
       images: [
-        '/manus-storage/z8073147785413_e3ed7d03984215ebe787786026a83f44_06717f85.jpg',
-        '/manus-storage/z8073147794915_7d8328ffec21d2e3e6b308d4de1a0a33_4a5cfcc5.jpg',
-        '/manus-storage/z8073147800086_60fe8f5f944da787cc36666bd2761043_0cbc3b45.jpg',
-        '/manus-storage/z8073147809464_da791215620567325c128064b8582145_9a5d0171.jpg',
+        '/web-bia-images/05-products/king-billiards-king-alpha/01_z8073147785413_e3ed7d03984215ebe787786026a83f44_06717f85.jpg',
+        '/web-bia-images/05-products/king-billiards-king-alpha/02_z8073147794915_7d8328ffec21d2e3e6b308d4de1a0a33_4a5cfcc5.jpg',
+        '/web-bia-images/05-products/king-billiards-king-alpha/03_z8073147800086_60fe8f5f944da787cc36666bd2761043_0cbc3b45.jpg',
+        '/web-bia-images/05-products/king-billiards-king-alpha/04_z8073147809464_da791215620567325c128064b8582145_9a5d0171.jpg',
       ]
     },
     {
@@ -64,10 +64,10 @@ export default function Products() {
       price: '37 Triệu',
       description: 'Bàn bi-a cao cấp với thiết kế hiện đại, mặt chơi xanh dương',
       images: [
-        '/manus-storage/z8073147973966_16e547d81e7e106be8ed04f8f6e32812_79dbd931.jpg',
-        '/manus-storage/z8073148004125_93d0071a61dd46cc67baec690c93b313_e26aff96.jpg',
-        '/manus-storage/z8073147968737_be59b97088cd22ba27879f256e35f4da_9b66b7b5.jpg',
-        '/manus-storage/z8073147983833_319fca49808c545109158c8f9bf6fde7_172d2618.jpg',
+        '/web-bia-images/05-products/king-billiards-king-ultra-x/01_z8073147973966_16e547d81e7e106be8ed04f8f6e32812_79dbd931.jpg',
+        '/web-bia-images/05-products/king-billiards-king-ultra-x/02_z8073148004125_93d0071a61dd46cc67baec690c93b313_e26aff96.jpg',
+        '/web-bia-images/05-products/king-billiards-king-ultra-x/03_z8073147968737_be59b97088cd22ba27879f256e35f4da_9b66b7b5.jpg',
+        '/web-bia-images/05-products/king-billiards-king-ultra-x/04_z8073147983833_319fca49808c545109158c8f9bf6fde7_172d2618.jpg',
       ]
     },
     {
@@ -77,14 +77,14 @@ export default function Products() {
       price: '68 Triệu',
       description: 'Bàn bi-a cao cấp từ thương hiệu KING KONG, thiết kế sang trọng với mặt chơi xám trắng',
       images: [
-        '/manus-storage/z8073160372104_59ee47efa8918fd61cddf5843cfa38b4_6d422f1b.jpg',
-        '/manus-storage/z8073160404364_74a44ec52ce1d6ef5b6690890b4c6f1b_3047e024.jpg',
-        '/manus-storage/z8073160443948_7d957acccaba1f869a35a93326671358_f222186e.jpg',
-        '/manus-storage/z8073160482053_d9bfa92048386c276d9fbef835e16960_94d5d45d.jpg',
-        '/manus-storage/z8073160528855_e53e261172d0f67dcdc9b0a203693bec_2acb2f8d.jpg',
-        '/manus-storage/z8073160562276_a00194b1f5618668f5cf5b3a8cf66a7f_c1e23d9d.jpg',
-        '/manus-storage/z8073163268988_5d6edde6ed11b3d97a44833feef63a3b_c24395a3.jpg',
-        '/manus-storage/z8073163301949_f369965fddad286fc8b4ad9320ab713d_13f60cc5.jpg',
+        '/web-bia-images/05-products/king-kong-elizabeth-s26/01_z8073160372104_59ee47efa8918fd61cddf5843cfa38b4_6d422f1b.jpg',
+        '/web-bia-images/05-products/king-kong-elizabeth-s26/02_z8073160404364_74a44ec52ce1d6ef5b6690890b4c6f1b_3047e024.jpg',
+        '/web-bia-images/05-products/king-kong-elizabeth-s26/03_z8073160443948_7d957acccaba1f869a35a93326671358_f222186e.jpg',
+        '/web-bia-images/05-products/king-kong-elizabeth-s26/04_z8073160482053_d9bfa92048386c276d9fbef835e16960_94d5d45d.jpg',
+        '/web-bia-images/05-products/king-kong-elizabeth-s26/05_z8073160528855_e53e261172d0f67dcdc9b0a203693bec_2acb2f8d.jpg',
+        '/web-bia-images/05-products/king-kong-elizabeth-s26/06_z8073160562276_a00194b1f5618668f5cf5b3a8cf66a7f_c1e23d9d.jpg',
+        '/web-bia-images/05-products/king-kong-elizabeth-s26/07_z8073163268988_5d6edde6ed11b3d97a44833feef63a3b_c24395a3.jpg',
+        '/web-bia-images/05-products/king-kong-elizabeth-s26/08_z8073163301949_f369965fddad286fc8b4ad9320ab713d_13f60cc5.jpg',
       ]
     },
     {
@@ -94,13 +94,13 @@ export default function Products() {
       price: '56 Triệu',
       description: 'Bàn bi-a cao cấp từ thương hiệu KING KONG, thiết kế hiện đại với mặt chơi trắng xám',
       images: [
-        '/manus-storage/z8073178483583_e0b00be52a08bb3603ab930dd301cb4a_64615b79.jpg',
-        '/manus-storage/z8073178522686_76d3791b353fbd8a579064aef8863f10_ea612f91.jpg',
-        '/manus-storage/z8073178557594_be4ddb3767b662692ea2728fd2d26f54_e3b3da10.jpg',
-        '/manus-storage/z8073660558498_0cf0b2f3df32729221d848e15a4013f1_d71fc8fe.jpg',
-        '/manus-storage/z8073660563116_a7fccb836b972622902b1b4fa20717af_197f7a48.jpg',
-        '/manus-storage/z8073660570655_23ac8ec8ff4d6af4b80b58ea23646d21_0d359636.jpg',
-        '/manus-storage/z8073660586434_4909f6e82aac902714608362dd7249b4_e9bd2759.jpg',
+        '/web-bia-images/05-products/king-kong-royal/01_z8073178483583_e0b00be52a08bb3603ab930dd301cb4a_64615b79.jpg',
+        '/web-bia-images/05-products/king-kong-royal/02_z8073178522686_76d3791b353fbd8a579064aef8863f10_ea612f91.jpg',
+        '/web-bia-images/05-products/king-kong-royal/03_z8073178557594_be4ddb3767b662692ea2728fd2d26f54_e3b3da10.jpg',
+        '/web-bia-images/05-products/king-kong-royal/04_z8073660558498_0cf0b2f3df32729221d848e15a4013f1_d71fc8fe.jpg',
+        '/web-bia-images/05-products/king-kong-royal/05_z8073660563116_a7fccb836b972622902b1b4fa20717af_197f7a48.jpg',
+        '/web-bia-images/05-products/king-kong-royal/06_z8073660570655_23ac8ec8ff4d6af4b80b58ea23646d21_0d359636.jpg',
+        '/web-bia-images/05-products/king-kong-royal/07_z8073660586434_4909f6e82aac902714608362dd7249b4_e9bd2759.jpg',
       ]
     },
     {
@@ -110,15 +110,15 @@ export default function Products() {
       price: '70 Triệu',
       description: 'Bàn bi-a cao cấp từ thương hiệu KK KING, thiết kế sang trọng với mặt chơi xanh dương',
       images: [
-        '/manus-storage/z8073110138383_30130445dc18f5f09eb352b4668c6f4e_8d30be34.webp',
-        '/manus-storage/z8073110138088_97d6c55c3d120f82ad0de869d6e96cf7_c241aba1.webp',
-        '/manus-storage/z8073110148187_a45452793b847a20562b8b842e1b6263_2ae71cff.webp',
-        '/manus-storage/z8073110156229_a322474389e9c0d442b8595da355eb5b_7e8ecdda.webp',
-        '/manus-storage/z8073110169857_36531874d3c3a223f5da79ca67b3d006_1434f092.webp',
-        '/manus-storage/z8073110173586_8e08b7689254e49393f91e9dd7c90daa_8fa4bf45.webp',
-        '/manus-storage/z8073110164414_71f32b08741549f0f5e7aaf944fd2966_4e863acf.webp',
-        '/manus-storage/z8073110485034_d160c1de2b1b9c47c02353c0bdd05c7e_9714c39d.webp',
-        '/manus-storage/z8073110176728_d18d6c03c4fd9fd55de677a6c55f6072_589f7e2e.webp',
+        '/web-bia-images/05-products/kk-king-victory/01_z8073110138383_30130445dc18f5f09eb352b4668c6f4e_8d30be34.webp',
+        '/web-bia-images/05-products/kk-king-victory/02_z8073110138088_97d6c55c3d120f82ad0de869d6e96cf7_c241aba1.webp',
+        '/web-bia-images/05-products/kk-king-victory/03_z8073110148187_a45452793b847a20562b8b842e1b6263_2ae71cff.webp',
+        '/web-bia-images/05-products/kk-king-victory/04_z8073110156229_a322474389e9c0d442b8595da355eb5b_7e8ecdda.webp',
+        '/web-bia-images/05-products/kk-king-victory/05_z8073110169857_36531874d3c3a223f5da79ca67b3d006_1434f092.webp',
+        '/web-bia-images/05-products/kk-king-victory/06_z8073110173586_8e08b7689254e49393f91e9dd7c90daa_8fa4bf45.webp',
+        '/web-bia-images/05-products/kk-king-victory/07_z8073110164414_71f32b08741549f0f5e7aaf944fd2966_4e863acf.webp',
+        '/web-bia-images/05-products/kk-king-victory/08_z8073110485034_d160c1de2b1b9c47c02353c0bdd05c7e_9714c39d.webp',
+        '/web-bia-images/05-products/kk-king-victory/09_z8073110176728_d18d6c03c4fd9fd55de677a6c55f6072_589f7e2e.webp',
       ]
     },
     {
@@ -128,15 +128,15 @@ export default function Products() {
       price: '68 Triệu',
       description: 'Bàn bi-a cao cấp từ thương hiệu KK KING, thiết kế sang trọng với mặt chơi đỏ, khung gỗ nâu',
       images: [
-        '/manus-storage/z8073113085434_1479d6afbd997fcfd0bf77d4a70cd05f_82c3bf7c.jpg',
-        '/manus-storage/z8073113069776_42b7e18ca854dd261cb04ab86f431505_2ffbaeb3.webp',
-        '/manus-storage/z8073113098238_e42de30e38f81c1cb8d2cd6d8f63450a_ebb9e68b.webp',
-        '/manus-storage/z8073113060903_0b6c515426994cc8268f6a37ce9658f9_87e3b6ed.webp',
-        '/manus-storage/z8073113078152_e2c389720c9e5fbcf32ee982ff136bd5_fa53964f.webp',
-        '/manus-storage/z8073113118542_8007f6ca685960fd86157ed9aab74bf3_b98b402a.webp',
-        '/manus-storage/z8073113103192_7ddd12a435792fb30ebaf7ee0927b195_66d30a71.webp',
-        '/manus-storage/z8073113089239_5d8412a4f189013ad6412fd483c9513f_3593f490.webp',
-        '/manus-storage/z8073113107789_56b8f544951167e5b1e5965bb7b52020_769754dd.webp',
+        '/web-bia-images/05-products/kk-king-imperial-platinum/01_z8073113085434_1479d6afbd997fcfd0bf77d4a70cd05f_82c3bf7c.jpg',
+        '/web-bia-images/05-products/kk-king-imperial-platinum/02_z8073113069776_42b7e18ca854dd261cb04ab86f431505_2ffbaeb3.webp',
+        '/web-bia-images/05-products/kk-king-imperial-platinum/03_z8073113098238_e42de30e38f81c1cb8d2cd6d8f63450a_ebb9e68b.webp',
+        '/web-bia-images/05-products/kk-king-imperial-platinum/04_z8073113060903_0b6c515426994cc8268f6a37ce9658f9_87e3b6ed.webp',
+        '/web-bia-images/05-products/kk-king-imperial-platinum/05_z8073113078152_e2c389720c9e5fbcf32ee982ff136bd5_fa53964f.webp',
+        '/web-bia-images/05-products/kk-king-imperial-platinum/06_z8073113118542_8007f6ca685960fd86157ed9aab74bf3_b98b402a.webp',
+        '/web-bia-images/05-products/kk-king-imperial-platinum/07_z8073113103192_7ddd12a435792fb30ebaf7ee0927b195_66d30a71.webp',
+        '/web-bia-images/05-products/kk-king-imperial-platinum/08_z8073113089239_5d8412a4f189013ad6412fd483c9513f_3593f490.webp',
+        '/web-bia-images/05-products/kk-king-imperial-platinum/09_z8073113107789_56b8f544951167e5b1e5965bb7b52020_769754dd.webp',
       ]
     },
     {
@@ -146,10 +146,10 @@ export default function Products() {
       price: '62 Triệu',
       description: 'Bàn bi-a cao cấp từ thương hiệu KK KING, thiết kế hiện đại với mặt chơi xanh nhạt',
       images: [
-        '/manus-storage/z8073116972981_3c7f17e012affd681eb94555f777a054_f848faf0.jpg',
-        '/manus-storage/z8073116979998_c4cb6b86f96d4fe30f19c6638b5e0e61_89934596.webp',
-        '/manus-storage/z8073116986717_e973333f40bd4b3706a0bce0c5267ce5_d8d35a65.webp',
-        '/manus-storage/z8073116986301_315ce628490ca87744e3e970b3e09345_4ed196cf.webp',
+        '/web-bia-images/05-products/kk-king-nova/01_z8073116972981_3c7f17e012affd681eb94555f777a054_f848faf0.jpg',
+        '/web-bia-images/05-products/kk-king-nova/02_z8073116979998_c4cb6b86f96d4fe30f19c6638b5e0e61_89934596.webp',
+        '/web-bia-images/05-products/kk-king-nova/03_z8073116986717_e973333f40bd4b3706a0bce0c5267ce5_d8d35a65.webp',
+        '/web-bia-images/05-products/kk-king-nova/04_z8073116986301_315ce628490ca87744e3e970b3e09345_4ed196cf.webp',
       ]
     },
     {
@@ -159,14 +159,14 @@ export default function Products() {
       price: '60 Triệu',
       description: 'Bàn bi-a cao cấp từ thương hiệu KK KING, thiết kế hiện đại với mặt chơi xanh dương',
       images: [
-        '/manus-storage/1_62bdc7a8.webp',
-        '/manus-storage/z8073118607875_844429e5ab5a9fb07d85e662ee01da1c_a48677fc.webp',
-        '/manus-storage/z8073118613623_aff43603f40c61a4d28733330188183b_8a014676.webp',
-        '/manus-storage/z8073118622529_c78a338f36bb082a19332640e3bf1235_1410a671.webp',
-        '/manus-storage/z8073118630310_361145803dbea392550cd5a64db30604_9921aa71.webp',
-        '/manus-storage/z8073118634494_516ab630c7121f687f18c3d6b705e89b_7d8572c1.webp',
-        '/manus-storage/z8073118639790_fdb28ed55fa1e294803627a9e5f457f0_3e31dd28.webp',
-        '/manus-storage/z8073118642878_b44bc7aee1dbac1be56a4a12213b44d8_232b7b36.webp',
+        '/web-bia-images/05-products/kk-king-k9025/01_1_62bdc7a8.webp',
+        '/web-bia-images/05-products/kk-king-k9025/02_z8073118607875_844429e5ab5a9fb07d85e662ee01da1c_a48677fc.webp',
+        '/web-bia-images/05-products/kk-king-k9025/03_z8073118613623_aff43603f40c61a4d28733330188183b_8a014676.webp',
+        '/web-bia-images/05-products/kk-king-k9025/04_z8073118622529_c78a338f36bb082a19332640e3bf1235_1410a671.webp',
+        '/web-bia-images/05-products/kk-king-k9025/05_z8073118630310_361145803dbea392550cd5a64db30604_9921aa71.webp',
+        '/web-bia-images/05-products/kk-king-k9025/06_z8073118634494_516ab630c7121f687f18c3d6b705e89b_7d8572c1.webp',
+        '/web-bia-images/05-products/kk-king-k9025/07_z8073118639790_fdb28ed55fa1e294803627a9e5f457f0_3e31dd28.webp',
+        '/web-bia-images/05-products/kk-king-k9025/08_z8073118642878_b44bc7aee1dbac1be56a4a12213b44d8_232b7b36.webp',
       ]
     },
     {
@@ -176,15 +176,15 @@ export default function Products() {
       price: '80 Triệu',
       description: 'Bàn bi-a cao cấp từ thương hiệu KK KING, thiết kế sang trọng với mặt chơi xanh dương, khung gỗ đen',
       images: [
-        '/manus-storage/z8073121788516_ccd213750764257f7e5df8a739e07bc3_2112e11f.webp',
-        '/manus-storage/1_bbd69d57.webp',
-        '/manus-storage/z8073121800481_ff459f96bf6f4e67cafc4eacfb55316f_b905e184.webp',
-        '/manus-storage/z8073121790355_01185aea496576b5e4412fde622045f9_67e665d6.webp',
-        '/manus-storage/z8073121816092_4a6bc59ac223ad5a27e359e8b0099c40_7c0c4c90.webp',
-        '/manus-storage/z8073121803264_35baf4b8fd56f86f010554e7402b0bde_c85b574f.webp',
-        '/manus-storage/z8073123024159_6d5a52f7822403322783a448742360f8_daa279f3.webp',
-        '/manus-storage/z8073121815814_8ceef0ae4c446262f7ec852464662450_80c14390.webp',
-        '/manus-storage/z8073121828475_4dff97d6c4a8d72ca0eb4c729aaee102_20c1a199.webp',
+        '/web-bia-images/05-products/kk-king-emperor/01_z8073121788516_ccd213750764257f7e5df8a739e07bc3_2112e11f.webp',
+        '/web-bia-images/05-products/kk-king-emperor/02_1_bbd69d57.webp',
+        '/web-bia-images/05-products/kk-king-emperor/03_z8073121800481_ff459f96bf6f4e67cafc4eacfb55316f_b905e184.webp',
+        '/web-bia-images/05-products/kk-king-emperor/04_z8073121790355_01185aea496576b5e4412fde622045f9_67e665d6.webp',
+        '/web-bia-images/05-products/kk-king-emperor/05_z8073121816092_4a6bc59ac223ad5a27e359e8b0099c40_7c0c4c90.webp',
+        '/web-bia-images/05-products/kk-king-emperor/06_z8073121803264_35baf4b8fd56f86f010554e7402b0bde_c85b574f.webp',
+        '/web-bia-images/05-products/kk-king-emperor/07_z8073123024159_6d5a52f7822403322783a448742360f8_daa279f3.webp',
+        '/web-bia-images/05-products/kk-king-emperor/08_z8073121815814_8ceef0ae4c446262f7ec852464662450_80c14390.webp',
+        '/web-bia-images/05-products/kk-king-emperor/09_z8073121828475_4dff97d6c4a8d72ca0eb4c729aaee102_20c1a199.webp',
       ]
     },
     {
@@ -194,7 +194,7 @@ export default function Products() {
       price: 'Liên Hệ',
       description: 'Bàn bi-a cao cấp từ thương hiệu RASSION, thiết kế hiện đại với mặt chơi xám, khung gỗ tối',
       images: [
-        '/manus-storage/z8073181325015_e40f4a1b63b3a958447be47669a8ab58_da841f35.jpg',
+        '/web-bia-images/05-products/rassion-acura/01_z8073181325015_e40f4a1b63b3a958447be47669a8ab58_da841f35.jpg',
       ]
     },
     {
@@ -204,8 +204,8 @@ export default function Products() {
       price: 'Liên Hệ',
       description: 'Bàn bi-a cao cấp từ thương hiệu AILEEX, thiết kế sang trọng với mặt chơi trắng, khung gỗ đen',
       images: [
-        '/manus-storage/z8073197157855_f01d2b9a58cbe1958cc7d01c11890b41_3f428aae.jpg',
-        '/manus-storage/z8073208160411_67705f1e4b99edb2ea68cac9b93b25c8_cdbe6841.jpg',
+        '/web-bia-images/05-products/aileex-crows24-luxury-op-den/01_z8073197157855_f01d2b9a58cbe1958cc7d01c11890b41_3f428aae.jpg',
+        '/web-bia-images/05-products/aileex-crows24-luxury-op-den/02_z8073208160411_67705f1e4b99edb2ea68cac9b93b25c8_cdbe6841.jpg',
       ]
     },
     {
@@ -215,7 +215,7 @@ export default function Products() {
       price: '52 Triệu',
       description: 'Bàn bi-a cao cấp từ thương hiệu QUEEN, thiết kế hiện đại với mặt chơi trắng, khung gỗ bạc',
       images: [
-        '/manus-storage/z8073211969318_01f74b70a6ff8843e23e23daa1b52990_9bf8753c.jpg',
+        '/web-bia-images/05-products/queen-alpha/01_z8073211969318_01f74b70a6ff8843e23e23daa1b52990_9bf8753c.jpg',
       ]
     }
   ];

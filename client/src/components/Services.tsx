@@ -3,17 +3,17 @@ export default function Services() {
     {
       title: 'Thiết Kế',
       description: 'Thiết kế không gian Billiards theo tiêu chuẩn quốc tế, kết hợp thẩm mỹ và chức năng.',
-      image: '/manus-storage/hz-service-design_6e295631.png'
+      image: '/web-bia-images/03-services/thiet-ke/01_hz-service-design_6e295631.png'
     },
     {
       title: 'Thi Công',
       description: 'Thi công chuyên nghiệp với đội ngũ kỹ thuật viên giàu kinh nghiệm và trang thiết bị hiện đại.',
-      image: '/manus-storage/hz-service-construction_b0a75736.png'
+      image: '/web-bia-images/03-services/thi-cong/01_hz-service-construction_b0a75736.png'
     },
     {
       title: 'Tư Vấn',
       description: 'Tư vấn toàn diện từ lập kế hoạch, thiết kế đến quản lý dự án và bảo trì sau hoàn thành.',
-      image: '/manus-storage/hz-service-consultation_e1161071.png'
+      image: '/web-bia-images/03-services/tu-van/01_hz-service-consultation_e1161071.png'
     }
   ];
 
