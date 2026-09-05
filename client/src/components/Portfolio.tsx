@@ -563,64 +563,64 @@ export default function Portfolio() {
   ];
 
   return (
-    <section id="portfolio" className="py-20 bg-black">
+    <section id="portfolio" className="py-12 md:py-20 bg-black">
       <div className="container max-w-7xl mx-auto px-4">
-        <div className="text-center mb-16">
+        <div className="text-center mb-10 md:mb-16">
           <p className="subtitle text-yellow-600 text-sm mb-4">Dự Án Tiêu Biểu</p>
-          <h2 className="text-4xl md:text-5xl font-bold text-white mb-6">
+          <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold text-white mb-6">
             Các Câu Lạc Bộ Đã Hoàn Thiện
           </h2>
-          <p className="text-lg text-gray-300 max-w-2xl mx-auto">
+          <p className="text-base sm:text-lg text-gray-300 max-w-2xl mx-auto">
             Những công trình Billiards sang trọng được thiết kế và thi công bởi HZdesign
           </p>
         </div>
 
-        <div className="space-y-12">
+        <div className="space-y-8 md:space-y-12">
           {projects.map((project) => (
             <div key={project.id} className="bg-gray-900 rounded-xl overflow-hidden border-2 border-yellow-600/20 hover:border-yellow-600 transition-all">
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-8 p-8">
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-8 p-4 sm:p-6 md:p-8">
                 {/* Project Info */}
-                <div className="space-y-6">
+                <div className="space-y-4 md:space-y-6">
                   <div>
-                    <h3 className="text-3xl font-bold text-white mb-2">{project.name}</h3>
+                    <h3 className="text-xl sm:text-2xl md:text-3xl font-bold text-white mb-2">{project.name}</h3>
                     <p className="text-yellow-600 font-semibold">{project.location}</p>
                   </div>
 
-                  <div className="grid grid-cols-2 gap-4">
-                    <div className="bg-gray-800 p-4 rounded-lg border-l-2 border-yellow-600">
-                      <p className="text-gray-400 text-sm mb-1">Diện Tích</p>
-                      <p className="text-2xl font-bold text-yellow-600">{project.area}</p>
+                  <div className="grid grid-cols-2 gap-3 md:gap-4">
+                    <div className="bg-gray-800 p-3 md:p-4 rounded-lg border-l-2 border-yellow-600">
+                      <p className="text-gray-400 text-xs md:text-sm mb-1">Diện Tích</p>
+                      <p className="text-xl md:text-2xl font-bold text-yellow-600">{project.area}</p>
                     </div>
-                    <div className="bg-gray-800 p-4 rounded-lg border-l-2 border-yellow-600">
-                      <p className="text-gray-400 text-sm mb-1">Số Bàn</p>
-                      <p className="text-2xl font-bold text-yellow-600">{project.tables}</p>
+                    <div className="bg-gray-800 p-3 md:p-4 rounded-lg border-l-2 border-yellow-600">
+                      <p className="text-gray-400 text-xs md:text-sm mb-1">Số Bàn</p>
+                      <p className="text-xl md:text-2xl font-bold text-yellow-600">{project.tables}</p>
                     </div>
                   </div>
 
                   <div>
                     <h4 className="text-white font-semibold mb-3">Mô Tả Dự Án</h4>
-                    <p className="text-gray-300 leading-relaxed">{project.description}</p>
+                    <p className="text-gray-300 text-sm md:text-base leading-relaxed">{project.description}</p>
                   </div>
 
-                  <div className="flex gap-4">
+                  <div className="flex gap-3 md:gap-4">
                     <button 
                       onClick={() => {
                         setSelectedProjectId(projects.findIndex(p => p.id === project.id));
                         setSelectedImageIndex(0);
                       }}
-                      className="flex-1 px-6 py-3 bg-yellow-600 text-white rounded-lg hover:bg-yellow-700 transition-all transform hover:scale-105 font-semibold"
+                      className="flex-1 px-4 md:px-6 py-3 bg-yellow-600 text-white rounded-lg hover:bg-yellow-700 transition-all transform hover:scale-105 font-semibold text-sm md:text-base"
                     >
                       Xem Chi Tiết
                     </button>
-                    <button className="flex-1 px-6 py-3 border-2 border-yellow-600 text-yellow-600 rounded-lg hover:bg-yellow-600/10 transition-all font-semibold">
+                    <button className="flex-1 px-4 md:px-6 py-3 border-2 border-yellow-600 text-yellow-600 rounded-lg hover:bg-yellow-600/10 transition-all font-semibold text-sm md:text-base">
                       Liên Hệ
                     </button>
                   </div>
                 </div>
 
                 {/* Thumbnail Gallery */}
-                <div className="space-y-4">
-                  <div className="relative h-64 rounded-lg overflow-hidden cursor-pointer group" onClick={() => {
+                <div className="space-y-3 md:space-y-4">
+                  <div className="relative h-48 sm:h-56 md:h-64 rounded-lg overflow-hidden cursor-pointer group" onClick={() => {
                         setSelectedProjectId(projects.findIndex(p => p.id === project.id));
                         setSelectedImageIndex(0);
                       }}>
@@ -634,11 +634,11 @@ export default function Portfolio() {
                     </div>
                   </div>
 
-                  <div className="grid grid-cols-6 gap-2 max-h-80 overflow-y-auto">
+                  <div className="grid grid-cols-4 sm:grid-cols-6 gap-1 sm:gap-2 max-h-80 overflow-y-auto">
                     {project.images.map((img, idx) => (
                       <div 
                         key={idx} 
-                        className="relative h-16 rounded-lg overflow-hidden cursor-pointer group"
+                        className="relative h-14 sm:h-16 rounded-lg overflow-hidden cursor-pointer group"
                         onClick={() => {
                         setSelectedProjectId(projects.findIndex(p => p.id === project.id));
                         setSelectedImageIndex(idx);
@@ -661,14 +661,14 @@ export default function Portfolio() {
 
       {/* Lightbox Modal */}
       {selectedProjectId !== null && projects[selectedProjectId] && (
-        <div className="fixed inset-0 bg-black/95 z-50 flex items-center justify-center p-4">
+        <div className="fixed inset-0 bg-black/95 z-50 flex items-center justify-center p-3 sm:p-4">
           <div className="relative max-w-4xl w-full">
             {/* Close Button */}
             <button 
               onClick={() => setSelectedProjectId(null)}
-              className="absolute -top-12 right-0 text-white hover:text-yellow-600 transition-colors"
+              className="absolute -top-10 sm:-top-12 right-0 text-white hover:text-yellow-600 transition-colors"
             >
-              <X size={32} />
+              <X size={28} />
             </button>
 
             {/* Main Image */}
@@ -679,35 +679,35 @@ export default function Portfolio() {
                 className="w-full h-auto opacity-0 animate-fadeIn"
               />
 
-              {/* Navigation */}
-              <div className="absolute inset-0 flex items-center justify-between p-4 opacity-0 hover:opacity-100 transition-opacity">
+              {/* Navigation — luôn hiển thị (không dùng hover để mobile bấm được) */}
+              <div className="absolute inset-0 flex items-center justify-between p-2 sm:p-4">
                 <button 
                   onClick={() => setSelectedImageIndex(selectedImageIndex === 0 ? projects[selectedProjectId].images.length - 1 : selectedImageIndex - 1)}
                   className="bg-yellow-600/80 hover:bg-yellow-600 text-white p-2 rounded-full transition-all"
                 >
-                  <ChevronLeft size={24} />
+                  <ChevronLeft size={20} />
                 </button>
                 <button 
                   onClick={() => setSelectedImageIndex(selectedImageIndex === projects[selectedProjectId].images.length - 1 ? 0 : selectedImageIndex + 1)}
                   className="bg-yellow-600/80 hover:bg-yellow-600 text-white p-2 rounded-full transition-all"
                 >
-                  <ChevronRight size={24} />
+                  <ChevronRight size={20} />
                 </button>
               </div>
 
               {/* Image Counter */}
-              <div className="absolute bottom-4 left-4 bg-black/60 text-white px-4 py-2 rounded-lg text-sm font-semibold">
+              <div className="absolute bottom-2 sm:bottom-4 left-2 sm:left-4 bg-black/60 text-white px-3 py-1 sm:px-4 sm:py-2 rounded-lg text-xs sm:text-sm font-semibold">
                 {selectedImageIndex + 1} / {projects[selectedProjectId].images.length}
               </div>
             </div>
 
             {/* Thumbnail Strip */}
-            <div className="mt-4 flex gap-2 overflow-x-auto pb-2">
+            <div className="mt-3 sm:mt-4 flex gap-1 sm:gap-2 overflow-x-auto pb-2">
               {projects[selectedProjectId].images.map((img, idx) => (
                 <button
                   key={idx}
                   onClick={() => setSelectedImageIndex(idx)}
-                  className={`flex-shrink-0 h-20 w-20 rounded-lg overflow-hidden border-2 transition-all ${
+                  className={`flex-shrink-0 h-14 w-14 sm:h-20 sm:w-20 rounded-lg overflow-hidden border-2 transition-all ${
                     selectedImageIndex === idx ? 'border-yellow-600' : 'border-gray-700 hover:border-yellow-600/50'
                   }`}
                 >

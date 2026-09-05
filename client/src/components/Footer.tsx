@@ -2,7 +2,7 @@ export default function Footer() {
   return (
     <footer className="bg-black text-white py-12 border-t-2 border-yellow-600">
       <div className="container max-w-7xl mx-auto px-4">
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6 md:gap-8 mb-8">
           <div>
             <h3 className="text-lg font-bold mb-4">HZdesign</h3>
             <p className="text-gray-400 text-sm">Thiết kế và thi công câu lạc bộ Billiards cao cấp.</p>

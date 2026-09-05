@@ -7,19 +7,25 @@ export default function Hero() {
             <div className="inline-block">
               <p className="subtitle text-yellow-600 text-sm">Thiết Kế & Thi Công</p>
             </div>
-            <h1 className="text-5xl md:text-6xl font-bold text-white leading-tight">
+            <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-white leading-tight">
               Câu Lạc Bộ Billiards <span className="text-yellow-600">Đẳng Cấp</span>
             </h1>
-            <p className="text-lg text-gray-300 leading-relaxed">
+            <p className="text-base sm:text-lg text-gray-300 leading-relaxed">
               Chúng tôi chuyên thiết kế và thi công các câu lạc bộ Billiards cao cấp, mang lại trải nghiệm sang trọng và chuyên nghiệp cho khách hàng.
             </p>
-            <div className="flex gap-4 pt-4">
-              <button className="px-8 py-3 bg-yellow-600 text-white rounded-lg hover:bg-yellow-700 transition-all transform hover:scale-105 active:scale-95 font-semibold border-2 border-yellow-600">
+            <div className="flex flex-wrap gap-3 sm:gap-4 pt-4">
+              <a
+                href="#portfolio"
+                className="px-6 sm:px-8 py-3 bg-yellow-600 text-white rounded-lg hover:bg-yellow-700 transition-all transform hover:scale-105 active:scale-95 font-semibold border-2 border-yellow-600"
+              >
                 Khám Phá Dự Án
-              </button>
-              <button className="px-8 py-3 border-2 border-yellow-600 text-yellow-600 rounded-lg hover:bg-yellow-600/10 transition-all font-semibold active:scale-95">
+              </a>
+              <a
+                href="#contact"
+                className="px-6 sm:px-8 py-3 border-2 border-yellow-600 text-yellow-600 rounded-lg hover:bg-yellow-600/10 transition-all font-semibold active:scale-95"
+              >
                 Tư Vấn Miễn Phí
-              </button>
+              </a>
             </div>
           </div>
 

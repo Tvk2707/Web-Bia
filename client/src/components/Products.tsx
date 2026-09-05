@@ -288,14 +288,14 @@ export default function Products() {
 
       {/* Lightbox Modal */}
       {selectedProductId !== null && products.find(p => p.id === selectedProductId) && (
-        <div className="fixed inset-0 bg-black/95 z-50 flex items-center justify-center p-4">
+        <div className="fixed inset-0 bg-black/95 z-50 flex items-center justify-center p-3 sm:p-4">
           <div className="relative max-w-4xl w-full">
             {/* Close Button */}
             <button 
               onClick={() => setSelectedProductId(null)}
-              className="absolute -top-12 right-0 text-white hover:text-yellow-600 transition-colors"
+              className="absolute -top-10 sm:-top-12 right-0 text-white hover:text-yellow-600 transition-colors"
             >
-              <X size={32} />
+              <X size={28} />
             </button>
 
             {/* Main Image */}
@@ -306,35 +306,35 @@ export default function Products() {
                 className="w-full h-auto opacity-0 animate-fadeIn"
               />
 
-              {/* Navigation */}
-              <div className="absolute inset-0 flex items-center justify-between p-4 opacity-0 hover:opacity-100 transition-opacity">
+              {/* Navigation — luôn hiển thị để mobile bấm được */}
+              <div className="absolute inset-0 flex items-center justify-between p-2 sm:p-4">
                 <button 
                   onClick={() => setSelectedImageIndex(selectedImageIndex === 0 ? products.find(p => p.id === selectedProductId)!.images.length - 1 : selectedImageIndex - 1)}
                   className="bg-yellow-600/80 hover:bg-yellow-600 text-white p-2 rounded-full transition-all"
                 >
-                  <ChevronLeft size={24} />
+                  <ChevronLeft size={20} />
                 </button>
                 <button 
                   onClick={() => setSelectedImageIndex(selectedImageIndex === products.find(p => p.id === selectedProductId)!.images.length - 1 ? 0 : selectedImageIndex + 1)}
                   className="bg-yellow-600/80 hover:bg-yellow-600 text-white p-2 rounded-full transition-all"
                 >
-                  <ChevronRight size={24} />
+                  <ChevronRight size={20} />
                 </button>
               </div>
 
               {/* Image Counter */}
-              <div className="absolute bottom-4 left-4 bg-black/60 text-white px-4 py-2 rounded-lg text-sm font-semibold">
+              <div className="absolute bottom-2 sm:bottom-4 left-2 sm:left-4 bg-black/60 text-white px-3 py-1 sm:px-4 sm:py-2 rounded-lg text-xs sm:text-sm font-semibold">
                 {selectedImageIndex + 1} / {products.find(p => p.id === selectedProductId)!.images.length}
               </div>
             </div>
 
             {/* Thumbnail Strip */}
-            <div className="mt-4 flex gap-2 overflow-x-auto pb-2">
+            <div className="mt-3 sm:mt-4 flex gap-1 sm:gap-2 overflow-x-auto pb-2">
               {products.find(p => p.id === selectedProductId)!.images.map((img, idx) => (
                 <button
                   key={idx}
                   onClick={() => setSelectedImageIndex(idx)}
-                  className={`flex-shrink-0 h-20 w-20 rounded-lg overflow-hidden border-2 transition-all ${
+                  className={`flex-shrink-0 h-14 w-14 sm:h-20 sm:w-20 rounded-lg overflow-hidden border-2 transition-all ${
                     selectedImageIndex === idx ? 'border-yellow-600' : 'border-gray-700 hover:border-yellow-600/50'
                   }`}
                 >
