@@ -13,7 +13,7 @@ export default function Header() {
     { label: 'Về Chúng Tôi', href: isProductsPage ? '/' : '#' },
     { label: 'Dịch Vụ', href: isProductsPage ? '/#services' : '#services' },
     { label: 'Dự Án', href: isProductsPage ? '/#portfolio' : '#portfolio' },
-    { label: 'Sản Phẩm', href: '/products' },
+    { label: 'Bàn Bi-a', href: '/products' },
     { label: 'Liên Hệ', href: isProductsPage ? '/#contact' : '#contact' },
   ];
 
